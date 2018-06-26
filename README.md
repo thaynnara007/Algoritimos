@@ -1,3 +1,3 @@
 # Algoritimos
 
-Implementações de alguns algoritimos ulteis para resolver problemas de maratona
+Implementações de alguns algoritimos uteis para resolver problemas.
